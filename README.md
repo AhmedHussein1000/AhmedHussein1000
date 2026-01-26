@@ -3,6 +3,7 @@
 
 <div align="center">
 
+[![Profile Views](https://komarev.com/ghpvc/?username=AhmedHussein1000&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/AhmedHussein1000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hussein-32b776343)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:ahmed.hussein.ah.07@gmail.com)
 
